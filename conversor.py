@@ -13,6 +13,7 @@ Bienvenido al conversor de monedas 💰
 2 - Pesos argentinos
 3 - Pesos mexicanos
 4 - Soles
+5 - Euros
 
 Elige una opción: """
 
@@ -26,5 +27,7 @@ elif opcion == 3:
     conversor("Pesos mexicanos", 24)
 elif opcion == 4:
     conversor("Soles", 3.85)
+elif opcion == 5:
+    conversor("Euros", 1.21)
 else:
     print("Ingresa una opción correcta por favor")
