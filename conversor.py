@@ -14,6 +14,7 @@ Bienvenido al conversor de monedas 💰
 3 - Pesos mexicanos
 4 - Soles
 5 - Euros
+6 - Bolivares
 
 Elige una opción: """
 
@@ -29,5 +30,7 @@ elif opcion == 4:
     conversor("Soles", 3.85)
 elif opcion == 5:
     conversor("Euros", 1.21)
+elif opcion == 6:
+    conversor("Bolivares", 250000)
 else:
     print("Ingresa una opción correcta por favor")
