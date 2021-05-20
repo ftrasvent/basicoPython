@@ -9,7 +9,7 @@ def palindromo(palabra):
 
 
 def run():
-    palabra = input('Escribe una palabra: ')
+    palabra = input('Escribe una palabra y veamos si es un palindromo: ')
     es_palindromo = palindromo(palabra)
     if es_palindromo == True:
         print('Es palíndromo')
