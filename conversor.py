@@ -7,7 +7,7 @@ def conversor(tipo_moneda, valor_dolar):
     print("Tienes $" + dolares + " dólares")
 
 menu = """"
-Bienvenido al conversor de monedas 💰 - by FT
+Bienvenido al conversor de monedas 💰 - by FT!
 
 1 - Pesos colombianos
 2 - Pesos argentinos
