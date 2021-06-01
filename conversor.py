@@ -12,7 +12,7 @@ Bienvenido al conversor de monedas 💰 - by FT!!!
 1 - Pesos colombianos
 2 - Pesos argentinos
 3 - Pesos mexicanos
-4 - Soles
+4 - Soles (No quiero emigrar de nuevo 😅)
 5 - Euros
 6 - Bolivares
 
@@ -27,7 +27,7 @@ elif opcion == 2:
 elif opcion == 3:
     conversor("Pesos mexicanos", 24)
 elif opcion == 4:
-    conversor("Soles", 3.85)
+    conversor("Soles", 3.90)
 elif opcion == 5:
     conversor("Euros", 1.21)
 elif opcion == 6:
