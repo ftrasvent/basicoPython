@@ -27,7 +27,7 @@ elif opcion == 2:
 elif opcion == 3:
     conversor("Pesos mexicanos", 24)
 elif opcion == 4:
-    conversor("Soles", 3.90)
+    conversor("Soles", 3.85)
 elif opcion == 5:
     conversor("Euros", 1.21)
 elif opcion == 6:
